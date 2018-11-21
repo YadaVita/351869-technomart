@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Галина Шабурина](https://up.htmlacademy.ru/htmlcss/23/user/351869).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Прокопеня](https://htmlacademy.ru/profile/sera_prokop).
 
 ---
 
